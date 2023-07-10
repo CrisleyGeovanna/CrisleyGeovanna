@@ -1,8 +1,8 @@
-# Olá! Me chamo Crisley Geovanna! 👋
+# Olá! Me chamo Crisley Geovanna! 💁‍♀️ 
 
 
-- 👨‍💻 Hoje estou cursando o Qualifica-DF 
-- 📚 Curso Desenvolvimento de Aplicativos Android 
+- 👨‍💻 Hoje estou cursando o curso de Analise e Desenvolvimento de Sistemas (TI)
+- 📚 Estou no 1° Semestre
 - 💡 Sou apaixonado em tecnologia. Procuro desafios sempre! 
 -->
 
